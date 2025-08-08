@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Explore sustainable gardening tips and techniques to grow your own organic vegetables at home.">
+    <meta name="keywords" content="sustainable gardening, organic vegetables, home gardening, eco-friendly gardening">
+    <meta name="author" content="Green Thumb Community">
+    <title>Sustainable Gardening Guide | Green Thumb Community</title>
+</head>
+<body>
+    <header>
+        <h1>Green Thumb Community</h1>
+        <p>Your guide to sustainable gardening</p>
+    </header>
+
+    <nav aria-label="Main navigation">
+        <ul>
+            <li><a href="#home" aria-current="page">Home</a></li>
+            <li><a href="#tips">Gardening Tips</a></li>
+            <li><a href="#resources">Resources</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section id="home" aria-labelledby="welcome-heading">
+            <h2 id="welcome-heading">Welcome to Sustainable Gardening</h2>
+            <p>Discover how to grow your own organic vegetables with eco-friendly practices that nurture both your garden and the planet.</p>
+        </section>
+
+        <section id="tips" aria-labelledby="tips-heading">
+            <h2 id="tips-heading">Gardening Tips</h2>
+            <article>
+                <h3>Composting Basics</h3>
+                <p>Learn how to create nutrient-rich compost using kitchen scraps and yard waste to enrich your soil naturally.</p>
+            </article>
+            <article>
+                <h3>Water Conservation</h3>
+                <p>Use drip irrigation and mulching to reduce water usage while keeping your plants healthy.</p>
+            </article>
+        </section>
+
+        <section id="resources" aria-labelledby="resources-heading">
+            <h2 id="resources-heading">Resources</h2>
+            <p>Explore our curated list of tools, books, and websites to deepen your gardening knowledge.</p>
+            <ul>
+                <li><a href="https://example.com/gardening-tools" rel="noopener">Best Gardening Tools</a></li>
+                <li><a href="https://example.com/organic-gardening-books" rel="noopener">Top Organic Gardening Books</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer id="contact" aria-labelledby="contact-heading">
+        <h2 id="contact-heading">Contact Us</h2>
+        <p>Email: <a href="mailto:info@greenthumbcommunity.com">info@greenthumbcommunity.com</a></p>
+        <p>&copy; 2025 Green Thumb Community. All rights reserved.</p>
+    </footer>
+</body>
+</html>
